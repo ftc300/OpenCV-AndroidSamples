@@ -1,0 +1,3 @@
+D:/workspace/opencv_android/OpenCV-AndroidSamples/app/.externalNativeBuild/cmake/fatRelease/x86_64/CMakeFiles/Tutorial2Activity.dir
+D:/workspace/opencv_android/OpenCV-AndroidSamples/app/.externalNativeBuild/cmake/fatRelease/x86_64/CMakeFiles/edit_cache.dir
+D:/workspace/opencv_android/OpenCV-AndroidSamples/app/.externalNativeBuild/cmake/fatRelease/x86_64/CMakeFiles/rebuild_cache.dir
