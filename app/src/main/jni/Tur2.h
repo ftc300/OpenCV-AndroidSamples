@@ -1,0 +1,8 @@
+//
+// Created by chendong on 2018/1/22.
+//
+
+#ifndef OPENCV_ANDROIDSAMPLES_TUR2_H
+#define OPENCV_ANDROIDSAMPLES_TUR2_H
+
+#endif //OPENCV_ANDROIDSAMPLES_TUR2_H

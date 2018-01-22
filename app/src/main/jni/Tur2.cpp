@@ -1,4 +1,9 @@
-#include <jni.h>
+//
+// Created by chendong on 2018/1/22.
+//
+
+#include "Tur2.h"
+#include "com_jnardari_opencv_androidsamples_activities_Tutorial2Activity.h"
 #include <opencv2/core/core.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
 #include <opencv2/features2d/features2d.hpp>
